@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/Tinkoff/main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+cmath
+-
+iomanip
+-
+

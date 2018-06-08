@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/Huffman_Slow/main.cpp
+iostream
+-
+fstream
+-
+stdlib.h
+-
+vector
+-
+queue
+-
+

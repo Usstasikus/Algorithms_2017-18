@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/Seminar8_SubsequenceSearch/saw_subseq.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+set
+-
+stdlib.h
+-
+algorithm
+-
+

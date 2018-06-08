@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/HW15/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+queue
+-
+stack
+-
+stdlib.h
+-
+algorithm
+-
+

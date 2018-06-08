@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/MergeSort/MergeSort.h
+
+/Users/StasDon/CLionProjects/Algorithms/MergeSort/ReadWriter.h
+iostream
+-
+fstream
+-
+
+/Users/StasDon/CLionProjects/Algorithms/MergeSort/main.cpp
+ReadWriter.h
+/Users/StasDon/CLionProjects/Algorithms/MergeSort/ReadWriter.h
+MergeSort.h
+/Users/StasDon/CLionProjects/Algorithms/MergeSort/MergeSort.h
+

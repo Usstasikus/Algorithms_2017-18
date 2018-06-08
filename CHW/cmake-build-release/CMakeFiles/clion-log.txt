@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /Users/StasDon/CLionProjects/Algorithms/CHW
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/StasDon/CLionProjects/Algorithms/CHW/cmake-build-release

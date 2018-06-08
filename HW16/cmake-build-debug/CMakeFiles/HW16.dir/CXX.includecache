@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/HW16/Task1.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+stack
+-
+set
+-
+queue
+-
+stdlib.h
+-
+algorithm
+-
+

@@ -1,0 +1,7 @@
+3
+Pattern found at position
+pos
+The strings need not be NUL-terminated strings because the length is passed. The strings need not be NUL-terminated strings because the length is passed.The strings need not be NUL-terminated strings because the length is passed.
+ind_c is an array that is used to define whether certain options should be activated.
+Pattern found at position
+pose

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/HW14/ReadWriter2.h
+iostream
+-
+fstream
+-
+string
+-
+
+/Users/StasDon/CLionProjects/Algorithms/HW14/Task2.cpp
+ReadWriter2.h
+/Users/StasDon/CLionProjects/Algorithms/HW14/ReadWriter2.h
+vector
+-
+

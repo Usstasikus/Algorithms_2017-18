@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/HW17/Edge.h
+string
+-
+
+/Users/StasDon/CLionProjects/Algorithms/HW17/ReadWriter.h
+Edge.h
+/Users/StasDon/CLionProjects/Algorithms/HW17/Edge.h
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+
+/Users/StasDon/CLionProjects/Algorithms/HW17/Task1.cpp
+ReadWriter.h
+/Users/StasDon/CLionProjects/Algorithms/HW17/ReadWriter.h
+

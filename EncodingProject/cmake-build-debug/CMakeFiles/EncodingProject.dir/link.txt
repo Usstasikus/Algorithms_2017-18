@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/EncodingProject.dir/main.cpp.o CMakeFiles/EncodingProject.dir/huffman.cpp.o  -o EncodingProject 

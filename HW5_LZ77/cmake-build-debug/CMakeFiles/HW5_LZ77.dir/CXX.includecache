@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/HW5_LZ77/LZ77_Packing.cpp
+
+/Users/StasDon/CLionProjects/Algorithms/HW5_LZ77/LZ77_Unpacking.cpp
+
+/Users/StasDon/CLionProjects/Algorithms/HW5_LZ77/Node.h
+
+/Users/StasDon/CLionProjects/Algorithms/HW5_LZ77/ReadWriter.h
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+Node.h
+/Users/StasDon/CLionProjects/Algorithms/HW5_LZ77/Node.h
+
+/Users/StasDon/CLionProjects/Algorithms/HW5_LZ77/main.cpp
+ReadWriter.h
+/Users/StasDon/CLionProjects/Algorithms/HW5_LZ77/ReadWriter.h
+

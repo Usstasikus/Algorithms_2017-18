@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/StasDon/CLionProjects/Algorithms/SkiPi/ReadWriter.h
+iostream
+-
+fstream
+-
+Student_and_Ski.h
+/Users/StasDon/CLionProjects/Algorithms/SkiPi/Student_and_Ski.h
+
+/Users/StasDon/CLionProjects/Algorithms/SkiPi/Solver.h
+ReadWriter.h
+/Users/StasDon/CLionProjects/Algorithms/SkiPi/ReadWriter.h
+
+/Users/StasDon/CLionProjects/Algorithms/SkiPi/Student_and_Ski.h
+
+/Users/StasDon/CLionProjects/Algorithms/SkiPi/main.cpp
+Solver.h
+/Users/StasDon/CLionProjects/Algorithms/SkiPi/Solver.h
+

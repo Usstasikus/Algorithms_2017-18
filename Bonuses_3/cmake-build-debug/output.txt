@@ -1,0 +1,3 @@
+Pattern found at position : 17
+Pattern is too long!
+No Match
